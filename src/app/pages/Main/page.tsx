@@ -5,7 +5,13 @@ const MainPage = () => {
   return (
     <div>
       <Header />
-      <h1>Home page</h1>
+      <div className="absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%]">
+        <h1 className="text-5xl text-center">
+          {" "}
+          Hello this is website for movies,watch and enjoy,from administration
+          ❤️
+        </h1>
+      </div>
     </div>
   );
 };
