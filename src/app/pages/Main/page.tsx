@@ -6,7 +6,7 @@ const MainPage = () => {
     <div>
       <Header />
       <div className="absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%]">
-        <h1 className="text-5xl text-center">
+        <h1 className="text-5xl text-center tracking-wide leading-tight">
           {" "}
           Hello this is website for movies,watch and enjoy,from administration
           ❤️
