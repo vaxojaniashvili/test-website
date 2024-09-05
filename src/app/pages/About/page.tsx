@@ -7,7 +7,7 @@ const page = () => {
       <Header />
       <div className="absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%]">
         <h1 className="text-3xl text-center leading-9">
-          This website is a test project designed for showcasing movie data and
+          This website is a test project designed for showcasing  data and
           enhancing user experience. It provides brief descriptions, ratings,
           and reviews of various films. ❤️
         </h1>
